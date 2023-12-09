@@ -1,0 +1,4 @@
+/home/dom/AoC/build/CMakeFiles/day1.dir
+/home/dom/AoC/build/CMakeFiles/day2.dir
+/home/dom/AoC/build/CMakeFiles/edit_cache.dir
+/home/dom/AoC/build/CMakeFiles/rebuild_cache.dir
