@@ -45,4 +45,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/day1.dir/DependInfo.cmake"
   "CMakeFiles/day2.dir/DependInfo.cmake"
+  "CMakeFiles/day3.dir/DependInfo.cmake"
   )

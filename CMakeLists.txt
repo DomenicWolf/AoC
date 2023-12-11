@@ -4,3 +4,4 @@ project(AoC)
 
 add_executable(day1 src/day1/main.cpp)
 add_executable(day2 src/day2/main.cpp)
+add_executable(day3 src/day3/main.cpp)
